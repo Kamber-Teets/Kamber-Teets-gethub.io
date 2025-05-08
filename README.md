@@ -46,9 +46,54 @@ This project focuses on a tabletop simulation exercise designed to test Callego'
 
 ---
 
-You can add similar sections for your other projects by following the same format, just replacing the titles, links, and descriptions.
+```markdown
+# The Wonderful World of Free Wi-Fi
 
----
+**Author:** Kamber M. Teets  
+**Course:** IT-505-Q1618 Core Technologies | Southern New Hampshire University  
+**Professor:** Dan Neal  
+**Date:** 2022  
+
+## 📘 Overview
+
+This paper explores the risks and realities of using public Wi-Fi networks in today’s digital world. While free internet access offers great convenience for users at libraries, cafes, and hotels, it also exposes individuals to potential cybersecurity threats. The paper discusses how public Wi-Fi works, the dangers it poses, and actionable steps users can take to protect their personal information online.
+
+## 🔐 Key Topics
+
+- How public Wi-Fi networks function
+- Network protocols and vulnerabilities
+- Real-world cybercrime tactics targeting public networks
+- Information assurance and user behavior
+- Recommended safeguards like VPNs, encrypted sites, and password hygiene
+- Advanced Persistent Threats (APTs) and broader implications for national cybersecurity
+
+## 🔎 Highlights
+
+- **Never assume public Wi-Fi is secure.**
+- **Use VPNs** or mobile data when possible.
+- **Avoid accessing personal or financial accounts** on untrusted networks.
+- **Look for HTTPS** but don’t rely on it alone.
+- **Rotate passwords** and never stay logged into important accounts.
+
+## 🧠 Lessons
+
+- Cybercriminals take advantage of low-security environments.
+- Users must take personal responsibility for protecting their data.
+- Awareness and digital hygiene are essential in public spaces.
+
+## 📎 References
+
+- FTC Consumer Advice (2021) – [consumer.ftc.gov](https://consumer.ftc.gov)
+- NIST Cybersecurity Framework – [csrc.nist.gov](https://csrc.nist.gov)
+- GeeksForGeeks – Public Wi-Fi Risks
+- Akbar, K. (2021). *Identifying Tactics of APTs*
+
+## 📄 View the Full Paper
+
+👉 [Download the full Word document here](https://snhu-my.sharepoint.com/:w:/r/personal/kamber_teets_snhu_edu/_layouts/15/Doc.aspx?sourcedoc=%7Bf98fd9f0-1742-4b1a-b22c-1284975d46eb%7D&action=edit&wdPreviousSession=80c689e1-178d-9808-aa81-cfd08fa2fb45)
+
+
+```
 
 ## Contact Me
 
@@ -56,5 +101,5 @@ Feel free to reach out if you have any questions or would like to collaborate on
 - Email: [kamberteets@gmail.com](mailto:kamberteets@gmail.com)
 ```
 
-Let me know if you need further adjustments, such as more projects or sections added!
+
 
