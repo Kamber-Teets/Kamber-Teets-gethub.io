@@ -27,10 +27,6 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with
 Thanks for stopping by!
 Great! Here’s how we can integrate your project into your GitHub portfolio with links to this document.
 
-First, I'll help you format the README.md file to reflect your projects and accomplishments. I'll include a section that lists the SE 690 Milestone Three incident management simulation tabletop training exercise and provide an overview with a link to the document.
-
-Here’s an updated section of your README.md with the project and links:
-
 ```markdown
 # Kamber Teets' Portfolio
 
