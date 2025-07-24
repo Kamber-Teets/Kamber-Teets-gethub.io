@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kamber Teets
 
-Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a background in technology, education, and public service. I'm currently completing my MS in Cybersecurity and have experience in threat analysis, incident response, and secure systems design.
+Welcome to my GitHub portfolio! I'm a passionate cybersecurity professional with a background in technology, education, and public service. I graduated with an MS in Cybersecurity on July 1, 2025 and have experience in threat analysis, incident response, and secure systems design.
 
 ## 🔐 About Me
 - 🎓 MS in Cybersecurity (Graduating June 2025)
